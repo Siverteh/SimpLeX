@@ -4,3 +4,6 @@
 [submodule "SimpLeX-Kubernetes"]
 	path = SimpLeX-Kubernetes
 	url = https://github.com/Siverteh/SimpLeX-Kubernetes.git
+[submodule "SimpLeX-Backend"]
+	path = SimpLeX-Backend
+	url = https://github.com/Siverteh/SimpLeX-Backend.git
