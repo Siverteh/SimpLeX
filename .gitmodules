@@ -1,0 +1,3 @@
+[submodule "SimpLeX-Frontend"]
+	path = SimpLeX-Frontend
+	url = https://github.com/Siverteh/SimpLeX-Frontend.git
