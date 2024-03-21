@@ -7,3 +7,6 @@
 [submodule "SimpLeX-Backend"]
 	path = SimpLeX-Backend
 	url = https://github.com/Siverteh/SimpLeX-Backend.git
+[submodule "SimpLeX-Compiler"]
+	path = SimpLeX-Compiler
+	url = https://github.com/Siverteh/SimpLeX-Compiler.git
